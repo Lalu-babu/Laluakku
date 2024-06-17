@@ -1,12 +1,33 @@
-## Hi there 👋
-- 👋 Hi, I’m @laluakk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Jeebha L.
 
-<!---
-Daniel182020/Daniel182020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Picture](url_to_your_profile_picture.jpg)
 
+## About Me
+I am a passionate individual with expertise in luxury transportation services. With a strong background in business development and operations management, I excel in delivering top-notch experiences for clients.
+
+## Skills
+- Luxury Transportation
+- Business Development
+- Operations Management
+- Customer Service
+- Leadership
+- Communication Skills
+
+## Experience
+- **Ravan Luxury Limo** - Sharjah
+  - *Position:* Founder & CEO
+  - *Duration:* 2018 - Present
+  - *Responsibilities:*
+    - Leading a team of professionals to deliver exceptional luxury transportation services.
+    - Business development and client relationship management.
+    - Ensuring operational efficiency and top-notch customer experiences.
+    - Strategic planning and execution for business growth.
+
+## Education
+- Diploma in Financial Accounting - Genius Software and Computer Education Pvt Kanniyakumari
+- DSC Engineering degree in Computer Engineering - Morning Star College Engineering (Anna University, St. Aloysius H.S.S Nagercoil, Marthandamthurai)
+
+## Contact Information
+- **Email:** lalu.ajl@gmail.com
+- **Phone:** +971 54 553 6452
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lalu-babu-ravananlimo)
