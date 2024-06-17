@@ -1,6 +1,6 @@
 # Lalu B.
 
-![Profile Picture](https://drive.google.com/file/d/1_JKVoTQ5AxFLqW-0YtMTzz2MbidfbUrs/view?usp=drivesdk)
+![Profile Picture]([https://drive.google.com/file/d/1_JKVoTQ5AxFLqW-0YtMTzz2MbidfbUrs/view?usp=drivesdk](https://drive.google.com/file/d/1_JKVoTQ5AxFLqW-0YtMTzz2MbidfbUrs/view?usp=drivesdk))
 
 ## About Me
 I am a passionate individual with expertise in luxury transportation services. With a strong background in business development and operations management, I excel in delivering top-notch experiences for clients.
